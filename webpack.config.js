@@ -36,7 +36,11 @@ module.exports = {
             }
           },
           {
-            loader: 'sass-loader'
+            loader: 'sass-loader',
+            // Prefer dart-sass
+            options: {
+              sourceMap: true,
+            }
           }
         ]
       }
