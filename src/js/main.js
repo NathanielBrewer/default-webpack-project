@@ -1,3 +1,4 @@
+import "bootstrap/scss/bootstrap.scss"; // TODO: need to verify this isnt't a HACK
 import "../scss/styles.scss";
 
 class App {
