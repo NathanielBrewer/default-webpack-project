@@ -1,4 +1,4 @@
-# default-webpack-project
+# Webpack starter
 Webpack with bootstrap and semantic HTML validation
 
 ## Get started
